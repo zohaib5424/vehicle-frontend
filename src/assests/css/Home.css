@@ -1,0 +1,27 @@
+.booking-table {
+  width: 100%;
+  border-radius: 35px !important;
+  /* margin: 10px 0; */
+}
+
+.booking-table tr {
+  border-bottom: 1px solid #d1d1d1;
+  border-radius: 10px;
+}
+
+.booking-table td {
+  padding: 13px 7px;
+  color: #1e1e1e;
+  font-family: "Ubuntu-Regular";
+  font-weight: 600;
+  opacity: 0.8;
+  font-size: 20px;
+}
+
+.booking-table th {
+  color: #757575;
+  font-size: 20px !important;
+  font-family: "Ubuntu-Light";
+  opacity: 0.9;
+  padding: 10px 7px;
+}
